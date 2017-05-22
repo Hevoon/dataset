@@ -14,7 +14,7 @@
 + [LFR人工网络数据集工具](http://santo.fortunato.googlepages.com/benchmark.tgz)  
   LFR是一个Linux-C++工具，所以必须安装g++。 
   
-  ** LFR生成网络步骤 **
+  **LFR生成网络步骤**
 
 首选跳转到LFR的binary_network目录中compile一下。
 ```
@@ -45,7 +45,7 @@ $ ./benchmark [FLAG] [P]
 -om		number of memberships of the overlapping nodes
 -C		[average clustering coefficient]
 ```
-   ** LFR得到的网络数据 **
+   **LFR得到的网络数据**
 
 文件community.dat就是LFR得到的网络数据，它是一个类似于netowrk.dat的文件，每一行表示一条边。它保存社区内部的边，舍弃社区之间的边。
 
