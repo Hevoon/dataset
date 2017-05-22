@@ -7,7 +7,7 @@
 
 
 
-# 2. 社区发现数据集
+# 2. 社交网络数据集
 
 + [Newman](http://www-personal.umich.edu/~mejn/netdata/)  
 + [斯坦福网络数据SNAP](http://snap.stanford.edu/data/index.html)  
