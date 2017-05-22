@@ -3,7 +3,7 @@
 
 # 1. 聚类数据集
 
-+ [http://cs.joensuu.fi](http://cs.joensuu.fi/sipu/datasets/)
++ [cs.joensuu.fi](http://cs.joensuu.fi/sipu/datasets/)
 
 
 
