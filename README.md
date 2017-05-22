@@ -12,7 +12,8 @@
 + [Newman](http://www-personal.umich.edu/~mejn/netdata/)  
 + [斯坦福网络数据SNAP](http://snap.stanford.edu/data/index.html)  
 + [LFR人工网络数据集工具](http://santo.fortunato.googlepages.com/benchmark.tgz)  
-  LFR是一个Linux-C++工具，所以必须安装g++。  
+  LFR是一个Linux-C++工具，所以必须安装g++。 
+  
   **用LFR生成网络步骤 **
 
 首选跳转到LFR的binary_network目录中compile一下。
