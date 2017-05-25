@@ -11,9 +11,9 @@
 
 + [MarkNewman](http://www-personal.umich.edu/~mejn/netdata/)  
 + [斯坦福网络数据SNAP](http://snap.stanford.edu/data/index.html)  
-+ [Konect](http://konect.uni-koblenz.de/)  
++ [Konect  Network Collection](http://konect.uni-koblenz.de/)  
 + [SocialComputing.asu](http://socialcomputing.asu.edu/pages/datasets)  
-+ [network repository](http://networkrepository.com/)  
++ [Network Repository](http://networkrepository.com/)  
 + [Yishi Lin 林一施](https://dango.rocks/datasets/#communities)  
 + [LFR人工网络数据集工具](http://santo.fortunato.googlepages.com/benchmark.tgz)  
   LFR是一个Linux-C++工具，所以必须安装g++。 
