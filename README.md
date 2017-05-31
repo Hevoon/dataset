@@ -3,9 +3,9 @@
 
 # 1.金融数据
 
-[知乎](https://zhuanlan.zhihu.com/p/25138563)
+[股票数据](https://zhuanlan.zhihu.com/p/25138563)
 
-# 1. 聚类数据集
+# 2. 聚类数据集
 
 + [cs.joensuu.fi](http://cs.joensuu.fi/sipu/datasets/)
 
@@ -14,7 +14,7 @@
 
 
 
-# 5. 社交网络数据集
+# 3. 社交网络数据集
 
 + [MarkNewman](http://www-personal.umich.edu/~mejn/netdata/)  
 + [斯坦福网络数据SNAP](http://snap.stanford.edu/data/index.html)  
@@ -123,6 +123,6 @@ if __name__ == '__main__':
 	main()
 ```
 
-# 3. 
+# 4. 
 
 
