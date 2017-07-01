@@ -10,10 +10,6 @@
 + [cs.joensuu.fi](http://cs.joensuu.fi/sipu/datasets/)
 
 
-
-
-
-
 # 3. 社交网络数据集
 
 + [MarkNewman](http://www-personal.umich.edu/~mejn/netdata/)  
@@ -125,4 +121,4 @@ if __name__ == '__main__':
 
 # 4. 
 
-
++ [MIT发布ADE20K场景感知/解析/分割/多目标识别数据集](http://groups.csail.mit.edu/vision/datasets/ADE20K/)
